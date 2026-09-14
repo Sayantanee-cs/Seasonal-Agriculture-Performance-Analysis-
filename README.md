@@ -1,10 +1,11 @@
 # Seasonal Agriculture Performance Analysis 🌾
-##Project Overview
+## Project Overview
+
 Seasonal Agriculture Performance Analysis is a data analytics and machine learning project that evaluates agricultural performance across Kharif, Rabi, and Zaid seasons. The project analyzes crop yield, profitability, water efficiency, resource usage, environmental conditions, and disease/pest risk to identify important agricultural patterns and support data-driven decision-making.
 
 The project combines data preprocessing, exploratory data analysis, statistical testing, visualization, correlation analysis, and machine learning to transform agricultural data into meaningful insights.
 
-##Objectives
+## Objectives
 * Analyze agricultural performance across different seasons.
 * Compare crop yield and profitability.
 * Identify high- and low-performing crop-season combinations.
