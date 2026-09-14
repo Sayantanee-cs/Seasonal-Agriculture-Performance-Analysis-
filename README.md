@@ -43,27 +43,27 @@ The project can be extended into a Smart Agriculture Decision-Support System wit
 * Farmer-friendly reports
 
 ## End Users
-* Farmers – Crop selection and seasonal planning
-* Agricultural Planners – Resource and regional planning
-* Government Departments – Policy and agricultural planning
-* Researchers & Analysts – Agricultural trend analysis
-* Agribusinesses – Profitability and production decisions
-* Irrigation Managers – Water-use planning
+* Farmers – Crop selection and seasonal planning.
+* Agricultural Planners – Resource and regional planning.
+* Government Departments – Policy and agricultural planning.
+* Researchers & Analysts – Agricultural trend analysis.
+* Agribusinesses – Profitability and production decisions.
+* Irrigation Managers – Water-use planning.
 
 ## Future Scope
 Future versions can integrate:
 
-* Real-time weather information
-* Live agricultural market prices
-* Satellite and remote-sensing data
-* IoT-based soil and water sensors
-* Advanced machine learning models
-* Personalized farmer recommendations
-* Mobile/web-based deployment
-* Automated crop and resource optimization
+* Real-time weather information.
+* Live agricultural market prices.
+* Satellite and remote-sensing data.
+* IoT-based soil and water sensors.
+* Advanced machine learning models.
+* Personalized farmer recommendations.
+* Mobile/web-based deployment.
+* Automated crop and resource optimization.
 
 ## Conclusion
 This project demonstrates how data analytics, statistical techniques, visualization, and machine learning can be applied to agricultural data to identify seasonal patterns and generate actionable insights. The analysis can support better crop selection, profitability planning, water management, resource utilization, and agricultural decision-making.
 
-##Project Information
+## Project Information
 Project: Seasonal Agriculture Performance Analysis Domain: Data Analytics & Machine Learning Environment: Google Colab / Jupyter Notebook Language: Python
