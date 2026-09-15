@@ -29,6 +29,9 @@ The project combines data preprocessing, exploratory data analysis, statistical 
 | Random Forest Regression | Agricultural yield prediction |
 | CSV Dataset | Agricultural data source |
 
+##Colab Link
+
+
 ## Feature Scope
 The project can be extended into a Smart Agriculture Decision-Support System with:
 * Crop recommendation
