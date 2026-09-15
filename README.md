@@ -26,10 +26,10 @@ The project combines data preprocessing, exploratory data analysis, statistical 
 | Seaborn | Statistical visualization |
 | Scipy | Statistical hypothesis testing |
 | Scikit-learn | Machine learning |
-| Random Forest Regression | Agricultural yield prediction |
+| Random Forest Regression | Agricultural yield prediction |p
 | CSV Dataset | Agricultural data source |
 
-##Colab Link
+## Colab Link
 [open in Collab](https://colab.research.google.com/github/Sayantanee-cs/Seasonal-Agriculture-Performance-Analysis-/blob/main/Seasonal_Agriculture_Performance_Analysis.ipynb)
 
 ## Feature Scope
