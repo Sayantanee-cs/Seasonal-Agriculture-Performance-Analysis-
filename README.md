@@ -30,7 +30,7 @@ The project combines data preprocessing, exploratory data analysis, statistical 
 | CSV Dataset | Agricultural data source |
 
 ##Colab Link
-
+[open in Collab](https://colab.research.google.com/github/Sayantanee-cs/Seasonal-Agriculture-Performance-Analysis-/blob/main/Seasonal_Agriculture_Performance_Analysis.ipynb)
 
 ## Feature Scope
 The project can be extended into a Smart Agriculture Decision-Support System with:
